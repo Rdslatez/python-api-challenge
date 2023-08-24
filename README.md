@@ -1,2 +1,3 @@
 # python-api-challenge
-#Module 6 Challenge completed
+
+Making plots, maps and linear regression in python based on data retrieved from API-Keys
